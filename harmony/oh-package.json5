@@ -1,0 +1,14 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "papex-app-harmony",
+  "version": "0.1.0",
+  "description": "Papex App — HarmonyOS entry (RNOH 0.82.30).",
+  "dependencies": {
+    "@rnoh/react-native-openharmony": "0.82.30",
+    "@rnoh/react-native-harmony": "0.82.30"
+  },
+  "devDependencies": {
+    "@ohos/hypium": "2.0.19",
+    "@rnoh/rspeedy-cli": "0.82.30"
+  }
+}

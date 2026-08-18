@@ -1,0 +1,8 @@
+{
+  "name": "papex",
+  "displayName": "Papex",
+  "expo": {
+    "name": "papex",
+    "slug": "papex-app"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "string": [
+    { "name": "entry_desc", "value": "Papex App" },
+    { "name": "EntryAbility_desc", "value": "Papex main ability" },
+    { "name": "EntryAbility_label", "value": "Papex" }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "entry",
+  "version": "0.1.0",
+  "description": "Papex entry module for HarmonyOS (RNOH).",
+  "main": "",
+  "dependencies": {
+    "@rnoh/react-native-openharmony": "0.82.30",
+    "@rnoh/react-native-harmony": "0.82.30"
+  }
+}

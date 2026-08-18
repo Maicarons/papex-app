@@ -1,0 +1,5 @@
+rootProject.name = 'papex'
+apply plugin: 'com.facebook.react.rootproject'
+
+include ':app'
+includeBuild('../node_modules/@react-native/gradle-plugin')
